@@ -1,0 +1,12 @@
+D:\Source\GHL\ReportJob\report.extension\bin\Debug\net6.0\report.extension.deps.json
+D:\Source\GHL\ReportJob\report.extension\bin\Debug\net6.0\report.extension.dll
+D:\Source\GHL\ReportJob\report.extension\bin\Debug\net6.0\report.extension.pdb
+D:\Source\GHL\ReportJob\report.extension\obj\Debug\net6.0\report.extension.csproj.AssemblyReference.cache
+D:\Source\GHL\ReportJob\report.extension\obj\Debug\net6.0\report.extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\GHL\ReportJob\report.extension\obj\Debug\net6.0\report.extension.AssemblyInfoInputs.cache
+D:\Source\GHL\ReportJob\report.extension\obj\Debug\net6.0\report.extension.AssemblyInfo.cs
+D:\Source\GHL\ReportJob\report.extension\obj\Debug\net6.0\report.extension.csproj.CoreCompileInputs.cache
+D:\Source\GHL\ReportJob\report.extension\obj\Debug\net6.0\report.extension.dll
+D:\Source\GHL\ReportJob\report.extension\obj\Debug\net6.0\refint\report.extension.dll
+D:\Source\GHL\ReportJob\report.extension\obj\Debug\net6.0\report.extension.pdb
+D:\Source\GHL\ReportJob\report.extension\obj\Debug\net6.0\ref\report.extension.dll
